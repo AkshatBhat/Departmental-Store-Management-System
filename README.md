@@ -1,5 +1,5 @@
 # Departmental-Store-Management-System
-This is my First Year Computer Engineering (Programming Methodology and Data Structures)Project based on SQLite C API.
+This is my First Year Computer Engineering (Programming Methodology and Data Structures) Project based on SQLite C API.
 
 
 # About
